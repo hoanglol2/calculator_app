@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">custom_keyboard_app</string>
+    <string name="doneLabel">Hoàn Thành</string>
+</resources>
